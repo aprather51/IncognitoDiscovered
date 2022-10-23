@@ -324,10 +324,16 @@
       "title": "Pikimin Emerald"
     },
     {
-      "img": "./img/gs/PokemonEmeraldBox.jpg",
+      "img": "./img/gs/Pokemondiamondbox.jpg",
       "location": "./source/webretro/?core=autodetect&rom=1015 - Pokemon Diamond (v05) (U)(Legacy).nds",
       "category": "n64",
       "title": "Pikimin Diamond"
+    },
+    {
+      "img": "./img/gs/MarioPartyDs.jfif",
+      "location": "./source/webretro/?core=autodetect&rom=1704 - Mario Party DS (E)(XenoPhobia).nds",
+      "category": "n64",
+      "title": "Mario Party DS"
     },
     {
       "img": "./img/gs/PokemonLeafGreenbox.jpg",
