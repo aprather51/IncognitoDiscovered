@@ -324,6 +324,12 @@
       "title": "Pikimin Emerald"
     },
     {
+      "img": "./img/gs/PokemonEmeraldBox.jpg",
+      "location": "./source/webretro/?core=autodetect&rom=1015 - Pokemon Diamond (v05) (U)(Legacy).nds",
+      "category": "n64",
+      "title": "Pikimin Diamond"
+    },
+    {
       "img": "./img/gs/PokemonLeafGreenbox.jpg",
       "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
       "category": "n64",
