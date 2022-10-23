@@ -332,8 +332,14 @@
     {
       "img": "./img/gs/MarioPartyDs.jfif",
       "location": "./source/webretro/?core=autodetect&rom=1704 - Mario Party DS (E)(XenoPhobia).nds",
-      "category": "n64",
+      "category": "Ds",
       "title": "Mario Party DS"
+    },
+    {
+      "img": "./img/gs/marioandluigitime.jfif",
+      "location": "./source/webretro/?core=autodetect&rom=0216 - Mario & Luigi - Partners in Time (U)(SCZ).nds",
+      "category": "n64",
+      "title": "Mario and Luigi: Partners in baby crime"
     },
     {
       "img": "./img/gs/PokemonLeafGreenbox.jpg",
