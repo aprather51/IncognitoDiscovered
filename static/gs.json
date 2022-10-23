@@ -324,8 +324,14 @@
     "title": "Pikimin Emerald"
   },
   {
-    "img": "./img/gs/PokemonEmeraldBox.jpg",
+    "img": "./img/gs/PokemondiamondBox.jpg",
     "location": "./source/webretro/?core=autodetect&rom=1015 - Pokemon Diamond (v05) (U)(Legacy).nds",
+    "category": "n64",
+    "title": "Pikimin Diamond"
+  },
+  {
+    "img": "./img/gs/0389-animal-crossing-wild-world.jpg",
+    "location": "./source/webretro/?core=autodetect&rom=0389 - Animal Crossing - Wild World (E)(Legacy).nds",
     "category": "n64",
     "title": "Pikimin Diamond"
   },
