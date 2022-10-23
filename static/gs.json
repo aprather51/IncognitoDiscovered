@@ -165,7 +165,7 @@
       "location": "/source/cookie/",
       "title": "Cookie Clicker",
       "category": "web",
-      "description": "Cookie Clickers is an idle clicker game. Bake millions of delicious cookies by clicking on a giant cookie.",
+      "description": "Cookie Clicker is an idle clicker game. Bake millions of delicious cookies by clicking on a giant cookie.",
       "author": "Orteil",
       "featured": true
     },
@@ -332,7 +332,7 @@
     {
       "img": "./img/gs/MarioPartyDs.jfif",
       "location": "./source/webretro/?core=autodetect&rom=1704 - Mario Party DS (E)(XenoPhobia).nds",
-      "category": "Ds",
+      "category": "n64",
       "title": "Mario Party DS"
     },
     {

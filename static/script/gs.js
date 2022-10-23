@@ -110,7 +110,6 @@ async function compileGs(app) {
         sega: [],
         gfn: [],
         n64: [],
-        DS: [],
     };
 
     for (const entry of json) {
@@ -288,24 +287,6 @@ async function compileGs(app) {
                 'data-category': 'nintendo'
             }
         }),
-        app.createElement('section', [
-            app.createElement('span', 'DS', {
-                style: {
-                    display: 'block',
-                    'margin-bottom': '30px',
-                    'font-size': '18px',
-                    'font-weight': '500'
-                }
-            }),
-            app.createElement('div', list.DS, {
-                class: 'gs-library'
-            })
-        ], {
-            class: 'data-section DS category',
-            attrs: {
-                'data-category': 'DS'
-            }
-        }), 
         app.createElement('section', [
             app.createElement('span', 'GeForce Now', {
                 style: {
