@@ -32,50 +32,15 @@
       "img": "./img/gs/Hyperspace-Racers-3.jpg",
       "location": "./load.html#aHR0cHM6Ly93d3cuY3JhenlnYW1lcy5jb20vZW1iZWQvaHlwZXJzcGFjZS1yYWNlcnMtMw==",
       "category": "multi",
-      "title": "test"
+      "title": "hyperspace racers 3"
     },
     {
-      "img": "./img/gs/Ev.io",
+      "img": "./img/gs/supermariobox.jfif",
       "location": "./source/webretro/?core=autodetect&rom=New Super Mario Bros. (USA).nds",
-      "category": "multi",
-      "title": "test"
-    },
-    {
-      "img": "./img/gs/PokemonEmeraldBox.jpg",
-      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
       "category": "n64",
-      "title": "Pikimin Emerald"
+      "title": "New Super Mario Bros"
     },
-    {
-      "img": "./img/gs/PokemonLeafGreenbox.jpg",
-      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
-      "category": "n64",
-      "title": "Pikimin Leaf Green"
-    },
-    {
-      "img": "./img/gs/fireredbox.jfif",
-      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9ucmVk",
-      "category": "n64",
-      "title": "Pikimin Fire Red"
-    },
-    {
-      "img": "./img/gs/Pkmnmysterydungeon.jpg",
-      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNteXN0ZXJ5cmVk",
-      "category": "n64",
-      "title": "Pikimin Mystery Dungons"
-    },
-    {
-      "img": "./img/gs/rubybox.jfif",
-      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9ucnVieQ==",
-      "category": "n64",
-      "title": "Pikimin Ruby"
-    },
-    {
-      "img": "./img/gs/sapphirebox.jfif",
-      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uc2FwcGhpcmU=",
-      "category": "n64",
-      "title": "Pikimin Sapphire"
-    },
+
     {
       "img": "./img/gs/marioluigisuperstarsbox.jfif",
       "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNzdXBlcnN0YXI=",
@@ -345,6 +310,48 @@
       "img": "./img/gs/warfare1944.jpg",
       "location": "/source/swfs/#warfare1944",
       "title": "Warfare 1944"
+    },
+    {
+      "img": "./img/gs/supermariobox.jfif",
+      "location": "./source/webretro/?core=autodetect&rom=Pokemon HeartGold.nds",
+      "category": "n64",
+      "title": "Pikimin Heart Gold"
+    },
+    {
+      "img": "./img/gs/PokemonEmeraldBox.jpg",
+      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
+      "category": "n64",
+      "title": "Pikimin Emerald"
+    },
+    {
+      "img": "./img/gs/PokemonLeafGreenbox.jpg",
+      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
+      "category": "n64",
+      "title": "Pikimin Leaf Green"
+    },
+    {
+      "img": "./img/gs/fireredbox.jfif",
+      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9ucmVk",
+      "category": "n64",
+      "title": "Pikimin Fire Red"
+    },
+    {
+      "img": "./img/gs/Pkmnmysterydungeon.jpg",
+      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNteXN0ZXJ5cmVk",
+      "category": "n64",
+      "title": "Pikimin Mystery Dungons"
+    },
+    {
+      "img": "./img/gs/rubybox.jfif",
+      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9ucnVieQ==",
+      "category": "n64",
+      "title": "Pikimin Ruby"
+    },
+    {
+      "img": "./img/gs/sapphirebox.jfif",
+      "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uc2FwcGhpcmU=",
+      "category": "n64",
+      "title": "Pikimin Sapphire"
     },
     {
       "img": "./img/gs/zombsroyale.jpg",
