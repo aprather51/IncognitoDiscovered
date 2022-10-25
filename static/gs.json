@@ -324,12 +324,6 @@
     "title": "Pikimin Diamonds"
   },
   {
-    "img": "./img/gs/0389-animal-crossing-wild-world.jpg",
-    "location": "./source/webretro/?core=autodetect&rom=0389 - Animal Crossing - Wild World (E)(Legacy).nds",
-    "category": "n64",
-    "title": "Wild World"
-  },
-  {
     "img": "./img/gs/PokemonLeafGreenbox.jpg",
     "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
     "category": "n64",
