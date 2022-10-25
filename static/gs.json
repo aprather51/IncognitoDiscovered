@@ -35,12 +35,6 @@
     "title": "hyperspace racers 3"
   },
   {
-    "img": "./img/gs/supermariobox.jfif",
-    "location": "./source/webretro/?core=autodetect&rom=New Super Mario Bros. (USA).nds",
-    "category": "n64",
-    "title": "New Super Mario Bros"
-  },
-  {
     "img": "./img/gs/marioluigisuperstarsbox.jfif",
     "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNzdXBlcnN0YXI=",
     "category": "n64",
