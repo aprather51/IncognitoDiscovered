@@ -40,7 +40,6 @@
     "category": "n64",
     "title": "New Super Mario Bros"
   },
-
   {
     "img": "./img/gs/marioluigisuperstarsbox.jfif",
     "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNzdXBlcnN0YXI=",
@@ -316,12 +315,6 @@
     "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
     "category": "n64",
     "title": "Pikimin Emerald"
-  },
-  {
-    "img": "./img/gs/Pokemondiamondbox.jpg",
-    "location": "./source/webretro/?core=autodetect&rom=1015 - Pokemon Diamond (v05) (U)(Legacy).nds",
-    "category": "n64",
-    "title": "Pikimin Diamonds"
   },
   {
     "img": "./img/gs/PokemonLeafGreenbox.jpg",
