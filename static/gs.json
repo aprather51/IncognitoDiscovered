@@ -312,19 +312,13 @@
     "title": "Warfare 1944"
   },
   {
-    "img": "./img/gs/supermariobox.jfif",
-    "location": "./source/webretro/?core=autodetect&rom=Pokemon HeartGold.nds",
-    "category": "n64",
-    "title": "Pikimin Heart Gold"
-  },
-  {
     "img": "./img/gs/PokemonEmeraldBox.jpg",
     "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
     "category": "n64",
     "title": "Pikimin Emerald"
   },
   {
-    "img": "./img/gs/PokemondiamondBox.jpg",
+    "img": "./img/gs/Pokemondiamondbox.jpg",
     "location": "./source/webretro/?core=autodetect&rom=1015 - Pokemon Diamond (v05) (U)(Legacy).nds",
     "category": "n64",
     "title": "Pikimin Diamond"
