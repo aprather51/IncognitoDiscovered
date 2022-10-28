@@ -102,3 +102,15 @@ body[data-appearance=space] {
     background-size: cover;
     background-position: center; 
 }
+
+body[data-appearance="discord"] {
+  --border-color: rgba(54,57,62, 0.2);
+  --text-color: #fff;
+  --header-background: inherit;
+  --accent: #f0ecfc;
+  --scrollbar-thumb-color: rgb(66,69,73, 0.3);
+  --scrollbar-track-color: rgb(40,43,48, 0.1);
+  --font-family: Roboto;
+  --background: #7289da;
+  background: var(--background);
+}
