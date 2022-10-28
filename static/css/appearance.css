@@ -102,13 +102,3 @@ body[data-appearance=space] {
     background-size: cover;
     background-position: center; 
 }
-
-body[data-appearance="discord"] {
-  --border-color:rgb(40,43,48, .2);
-  --header-background: #36393e;
-  --text-color: #FFF;
-  --accent: dodgerblue;
-  --background: #121212;
-  --scrollbar-thumb-color: rgb(114,137,218, 0.3);
-  --scrollbar-track-color: rgb(114,137,218, 0.1);
-}

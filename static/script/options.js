@@ -59,10 +59,6 @@ async function options(app) {
             id: 'fancy',
             content: 'Fancy'
         }
-        {
-            id: 'discord',
-            content: 'Discord'
-        }
     ]
           
           
