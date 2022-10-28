@@ -305,12 +305,6 @@
     "title": "Warfare 1944"
   },
   {
-    "img": "./img/gs/Pokemondiamondbox.jpg",
-    "location": "./source/webretro/?core=autodetect&rom=1015 - Pokemon Diamond (v05) (U)(Legacy).nds",
-    "category": "n64",
-    "title": "Pikimin Diamond"
-  },
-  {
     "img": "./img/gs/PokemonEmeraldBox.jpg",
     "location": "./load.html#aHR0cHM6Ly9taXh0YXBlaXNmaXJlLmdpdGh1Yi5pby9nYmEvbGF1bmNoZXIuaHRtbCNwb2tlbW9uZW1lcmFsZA==",
     "category": "n64",
