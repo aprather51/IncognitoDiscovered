@@ -26,7 +26,8 @@ const tips = [
     'better start working before that teacher gives you a F',
     'cool pep rally hernandez',
     'Hernandez Vs Hopewell (who wins)',
-    'thanks bugs for breaking my website (when will the emulators come back)'
+    'thanks bugs for breaking my website (when will the emulators come back)',
+    'bye'
 ];
 
 
