@@ -204,11 +204,6 @@
     "title": "Friendly Fire"
   },
   {
-    "img": "./img/gs/drifthunters.jfif",
-    "location": "./load.html#PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3LmNyYXp5Z2FtZXMuY29tL2VtYmVkL2RyaWZ0LWh1bnRlcnMiIHN0eWxlPSJ3aWR0aDogMTAwJTsgaGVpZ2h0OiAxMDAlOyIgZnJhbWVib3JkZXI9IjAiIGFsbG93PSJnYW1lcGFkICo7Ij48L2lmcmFtZT4=",
-    "title": "Drift hunters"
-  },
-  {
     "img": "./img/gs/geometry.jpg",
     "location": "/source/geometry/",
     "title": "Geometry Dash"
