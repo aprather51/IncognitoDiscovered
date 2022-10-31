@@ -5,7 +5,8 @@
     "title": "Krunker.io",
     "author": "Yendis Entertainment",
     "description": "Krunker is a remarkable first-person shooter game where you fall right into a dark world, tasked with fighting against other players from around the world.",
-    "category": "multi"
+    "category": "multi",
+    "featured": true
   },
   {
     "img": "./img/gs/moo.png",
@@ -25,8 +26,8 @@
     "img": "./img/gs/Ev.png",
     "location": "./load.html#aHR0cHM6Ly9ldi5pbw==",
     "category": "multi",
-    "featured": true,
-    "title": "ev.io"
+    "title": "ev.io",
+    "featured": true
   },
   {
     "img": "./img/gs/Hyperspace-Racers-3.jpg",
@@ -74,8 +75,8 @@
     "img": "./img/gs/subwaysurfers.jfif",
     "location": "./load.html#aHR0cHM6Ly9tb3JhbHNlYWdyZWVuYXNzZW1ibGVyLmRlemgxLnJlcGwuY28=",
     "category": "multi",
-    "featured": true,
-    "title": "Subway Surfers"
+    "title": "Subway Surfers",
+    "featured": true
   },
   {
     "img": "./img/gs/skiribbl.png",
@@ -106,6 +107,7 @@
     "location": "./load.html#MXYxLmxvbA%3D%3D",
     "title": "1v1.LOL",
     "category": "multi",
+    "featured": true,
     "description": "Discover 1v1, the online building simulator & third person shooting game. Battle royale, build fight, box fight, zone wars and more game modes to enjoy!"
   },
   {
@@ -160,6 +162,7 @@
     "category": "web",
     "description": "Cookie Clicker is an idle clicker game. Bake millions of delicious cookies by clicking on a giant cookie.",
     "author": "Orteil",
+    "featured": true
   },
   {
     "img": "./img/gs/cubefield.jpg",
@@ -192,6 +195,7 @@
     "title": "Slope",
     "author": "Y8 Studios",
     "category": "web",
+    "featured": true,
     "description": "Slope is the ultimate running game that will put your skills to the test. Speed down on a randomized slope. The farther you go, the faster your ball travels. This game might look simple but playing this will give you extreme adrenaline rush. Just remember to avoid obstacles and those red blocks. Always be on track to get a high score and you might have your name on the leaderboard! "
   },
   {
@@ -322,7 +326,6 @@
   {
     "img": "./img/gs/managod.png",
     "location": "./load.html#aHR0cHM6Ly92NnA5ZDl0NC5zc2wuaHdjZG4ubmV0L2h0bWwvNjY5Mzk5MC9pbmRleC5odG1s",
-    "featured": true,
     "title": "Mana God"
   },
   {
