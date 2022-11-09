@@ -1,21 +1,3 @@
-/*
-  _____                   _                _     _                                                                      
- |  __ \                 | |              | |   | |                                                                     
- | |__) |   ___    _ __  | |_    ___    __| |   | |__    _   _                                                          
- |  ___/   / _ \  | '__| | __|  / _ \  / _` |   | '_ \  | | | |                                                         
- | |      | (_) | | |    | |_  |  __/ | (_| |   | |_) | | |_| |                                                         
- |_|       \___/  |_|     \__|  \___|  \__,_|   |_.__/   \__, |                                                         
-                                                          __/ |                                                         
-                                                         |___/                                                          
-                                _     _                     _       _   _          _                               _    
-     /\                        | |   | |                   | |     | \ | |        | |                             | |   
-    /  \     _ __ ___     ___  | |_  | |__    _   _   ___  | |_    |  \| |   ___  | |_  __      __   ___    _ __  | | __
-   / /\ \   | '_ ` _ \   / _ \ | __| | '_ \  | | | | / __| | __|   | . ` |  / _ \ | __| \ \ /\ / /  / _ \  | '__| | |/ /
-  / ____ \  | | | | | | |  __/ | |_  | | | | | |_| | \__ \ | |_    | |\  | |  __/ | |_   \ V  V /  | (_) | | |    |   < 
- /_/    \_\ |_| |_| |_|  \___|  \__| |_| |_|  \__, | |___/  \__|   |_| \_|  \___|  \__|   \_/\_/    \___/  |_|    |_|\_\
-                                               __/ |                                                                    
-                                              |___/                                                                     
-*/
 async function gs(app) {
     app.search.input.placeholder = 'Search library'
     app.search.back.style.display = 'inline';
@@ -27,8 +9,7 @@ async function gs(app) {
         }
     });
     app.main.emptySearch = app.createElement('div', [
-        app.createElement('p', 'No results found.'),
-        app.createElement('p', '<p>Want to suggest a game to be added? Reach out to any staff in our <a href="https://discord.gg/unblock">community</a>.</p>')
+        app.createElement('p', 'No results found.')
     ], {
         class: 'gs-empty',
         style: {
