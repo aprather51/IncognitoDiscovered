@@ -43,7 +43,7 @@
   },
   {
     "img": "./img/gs/Roblox.png",
-    "location": "./load.html#aHR0cHM6Ly9reGQuZm0vcm9ibG94IA==",
+    "location": "./load.html#aHR0cHM6Ly9ub3cuZ2cvcGxheS9yb2Jsb3gtY29ycG9yYXRpb24vNTM0OS9yb2Jsb3g=",
     "category": "multi",
     "title": "Roblox"
   },
@@ -87,7 +87,7 @@
   {
     "img": "./img/gs/skiribbl.png",
     "location": "./load.html#aHR0cHM6Ly9za3JpYmJsLmlv",
-     "category": "multi",
+    "category": "multi",
     "title": "Skribbl.io"
   },
   {
@@ -106,7 +106,7 @@
     "img": "./img/gs/1-on-1-soccer.jpg",
     "location": "/source/swfs/#1on1soccer",
     "title": "1 on 1 Soccer",
-    "description": "\r\n\r\nDon't you enjoy the straight-forward athletic duels on the field? In 1 on 1 Soccer, you get to face off against another player (Computer or real) in a 2 player football match. Run up against the ball to kick it across the field. Jump up in the air to move the ball with your head, or to simply stand on your opponent's. A match only lasts five minutes. Before you know it, you're itching for a rematch.\r\n\r\nThe easy gameplay makes this soccer match fun and addictive. Grab your best friend and play a duell to find out who can handle the ball better. Aim into your opponent's goal and try to keep it as far away as possible from your own. What are you waiting for? Have some sporty fun with those funny looking figures in 1 on 1 Soccer, online and for free on Silvergames.com!\r\n\r\nControls: WASD \/ Arrows = Move\/Jump\r\n"
+    "description": "\r\n\r\nDon't you enjoy the straight-forward athletic duels on the field? In 1 on 1 Soccer, you get to face off against another player (Computer or real) in a 2 player football match. Run up against the ball to kick it across the field. Jump up in the air to move the ball with your head, or to simply stand on your opponent's. A match only lasts five minutes. Before you know it, you're itching for a rematch.\r\n\r\nThe easy gameplay makes this soccer match fun and addictive. Grab your best friend and play a duell to find out who can handle the ball better. Aim into your opponent's goal and try to keep it as far away as possible from your own. What are you waiting for? Have some sporty fun with those funny looking figures in 1 on 1 Soccer, online and for free on Silvergames.com!\r\n\r\nControls: WASD / Arrows = Move/Jump\r\n"
   },
   {
     "img": "./img/gs/1v1-lol.jpg",
@@ -155,11 +155,11 @@
     "category": "web",
     "description": "The Dinosaur Game is a browser game developed by Google and built into the Google Chrome web browser. The player guides a pixelated Tyrannosaurus rex across a side-scrolling landscape, avoiding obstacles to achieve a higher score."
   },
-      {
+  {
     "img": "./img/gs/fridaynightfunkin.jpg",
     "location": "/source/fridaynightfunkin",
     "title": "Friday Night Funkin",
-     "category": "web"
+    "category": "web"
   },
   {
     "img": "./img/gs/cookie-clicker.jpg",
